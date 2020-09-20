@@ -1,0 +1,1 @@
+[{"make":"BMW","model":"X6 (1299)","bodyStyle":"Hatchback","releaseYear":2020},{"make":"Toyota","model":"Camry (9549)","bodyStyle":"Hatchback","releaseYear":2012},{"make":"BMW","model":"5-Series (2987)","bodyStyle":"Coupe","releaseYear":2019},{"make":"Kalina","model":"Krasnaya","bodyStyle":"24134","releaseYear":2020}]

@@ -1,0 +1,1 @@
+[{"make":"BMW","model":"8-Series","bodyStyle":"Coupe","releaseYear":2020},{"make":"Porsche","model":"Macan","bodyStyle":"Sport Utility","releaseYear":2018},{"make":"Mini","model":"Countryman","bodyStyle":"Hatchback","releaseYear":2010}]
